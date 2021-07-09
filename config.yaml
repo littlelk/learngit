@@ -1,0 +1,11 @@
+repo:
+    - git@git.woa.com:fybrand/fy-trade-jh-business.git
+    - git@git.woa.com:fybrand/fybrand-support.git
+branches:
+    - [main, test]
+    - [feaute_0531_cloudsms, test]
+files:
+  -
+    - pom.xml
+  -
+    - pom.xml
